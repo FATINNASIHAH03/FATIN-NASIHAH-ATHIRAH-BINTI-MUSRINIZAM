@@ -1,0 +1,65 @@
+body
+    {background-color: gray;}
+
+a:link
+    {
+    color: blueviolet;
+    background-color: darkorange;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    }
+
+a:visited
+    {
+        color: antiquewhite;
+        background-color: aquamarine;
+        text-decoration: double;
+        text-align: justify;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 15px;
+    }
+
+a:hover
+    {
+        color: rgb(161, 121, 69);
+        background-color: rgb(61, 97, 85);
+        text-decoration: line-through;
+        text-align: left;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding: 15px;
+    }
+
+a:active
+   {
+     color: rgb(161, 121, 69);
+    background-color: rgb(61, 97, 85);
+    text-decoration: line-through;
+    padding: 15px;
+   }
+
+a:link
+    {color: blueviolet;
+    background-color: darkorange;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    }
+
+a:active
+
+{
+    color:blanchedalmond;
+    background-color:bisque;
+    text-decoration:none;
+    padding: 15 px;
+
+}
+
+h1
+
+{
+    color:azure;
+}
